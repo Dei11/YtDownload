@@ -1,0 +1,18 @@
+D:\C#\Youtube video conv\Youtube video conv\bin\Debug\net7.0\Youtube video conv.exe
+D:\C#\Youtube video conv\Youtube video conv\bin\Debug\net7.0\Youtube video conv.deps.json
+D:\C#\Youtube video conv\Youtube video conv\bin\Debug\net7.0\Youtube video conv.runtimeconfig.json
+D:\C#\Youtube video conv\Youtube video conv\bin\Debug\net7.0\Youtube video conv.dll
+D:\C#\Youtube video conv\Youtube video conv\bin\Debug\net7.0\Youtube video conv.pdb
+D:\C#\Youtube video conv\Youtube video conv\obj\Debug\net7.0\Youtube video conv.csproj.AssemblyReference.cache
+D:\C#\Youtube video conv\Youtube video conv\obj\Debug\net7.0\Youtube video conv.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Youtube video conv\Youtube video conv\obj\Debug\net7.0\Youtube video conv.AssemblyInfoInputs.cache
+D:\C#\Youtube video conv\Youtube video conv\obj\Debug\net7.0\Youtube video conv.AssemblyInfo.cs
+D:\C#\Youtube video conv\Youtube video conv\obj\Debug\net7.0\Youtube video conv.csproj.CoreCompileInputs.cache
+D:\C#\Youtube video conv\Youtube video conv\obj\Debug\net7.0\Youtube video conv.dll
+D:\C#\Youtube video conv\Youtube video conv\obj\Debug\net7.0\refint\Youtube video conv.dll
+D:\C#\Youtube video conv\Youtube video conv\obj\Debug\net7.0\Youtube video conv.pdb
+D:\C#\Youtube video conv\Youtube video conv\obj\Debug\net7.0\Youtube video conv.genruntimeconfig.cache
+D:\C#\Youtube video conv\Youtube video conv\obj\Debug\net7.0\ref\Youtube video conv.dll
+D:\C#\Youtube video conv\Youtube video conv\bin\Debug\net7.0\AngleSharp.dll
+D:\C#\Youtube video conv\Youtube video conv\bin\Debug\net7.0\YoutubeExplode.dll
+D:\C#\Youtube video conv\Youtube video conv\obj\Debug\net7.0\Youtube video conv.csproj.CopyComplete

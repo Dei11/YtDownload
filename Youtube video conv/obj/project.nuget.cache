@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8m0dZhvUxydrY1Nk/l6hx5Di5ewDM1Jd0mCym7Y+/NT1K+BlAp5+L6GxQoWhXnPxBUBWfCNQNyiWDTJFjIqzSA==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\Youtube video conv\\Youtube video conv\\Youtube video conv.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asker\\.nuget\\packages\\anglesharp\\1.0.1\\anglesharp.1.0.1.nupkg.sha512",
+    "C:\\Users\\asker\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\asker\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512",
+    "C:\\Users\\asker\\.nuget\\packages\\youtubeexplode\\6.2.12\\youtubeexplode.6.2.12.nupkg.sha512"
+  ],
+  "logs": []
+}
